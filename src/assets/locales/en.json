@@ -1,0 +1,12 @@
+{
+  "ROUTES.404": "404",
+  "ROUTES.home": "home",
+  "ROUTES.example": "example",
+  "home": "Home",
+  "seo": {
+    "home-page": {
+      "title": "This Description",
+      "description": "This Description"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ROUTES.404": "404",
+  "ROUTES.home": "beranda",
+  "ROUTES.example": "contoh",
+  "home": "Beranda",
+  "seo": {
+    "home-page": {
+      "title": "Ini Judul",
+      "description": "Ini Deskripsi"
+    },
+    "example-page": {
+      "title": "Contoh",
+      "description": "Deskripsi Contoh"
+    }
+  }
+}
